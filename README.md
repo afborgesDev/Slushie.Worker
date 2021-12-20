@@ -1,0 +1,2 @@
+# Slushie.Worker
+Crawler worker
